@@ -26,6 +26,6 @@ Take a look at these couple examples that I have in my own portfolio:
 
 **Cuisine-Restaurant:** https://github.com/NAEEMGHADAI/Cuisine-Restaurant
 
-**ShareEazy:** https://github.com/NAEEMGHADAI/ShareEazy
+**ShareEazy:** https://github.com/Salik47/ShareEazy
 
 **Cheap-Oxford:** https://github.com/NAEEMGHADAI/cheap-oxford
