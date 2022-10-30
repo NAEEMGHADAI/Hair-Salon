@@ -1,7 +1,7 @@
 /* Box Model Hack */
 * {
 	box-sizing: border-box;
-	font-family: "Aboreto", cursive;
+	font-family: "Roboto", sans-serif;
 	overflow-x: hidden;
 	scroll-behavior: smooth;
 }
@@ -295,10 +295,18 @@ img {
 .contactSection {
 	width: 30%;
 }
+h2,
+h3,
+h1 {
+	overflow: hidden;
+}
 
 .contactus {
 	padding-left: 5%;
 	background-color: beige;
+}
+.contactus ul {
+	padding: 0;
 }
 
 .fields {
@@ -334,7 +342,9 @@ label {
 }
 .icons {
 	display: flex;
+	padding: 0;
 }
+
 .icons * {
 	padding-right: 40px;
 	overflow-y: hidden;
