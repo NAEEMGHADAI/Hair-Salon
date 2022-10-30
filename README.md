@@ -4,7 +4,8 @@ Hair Salon website beautifully designed for a hair salon customer.
 
 Link to Project: https://nsalon.netlify.app
 
-![hair salon](https://user-images.githubusercontent.com/51822103/192154388-aa49fe05-88b3-4ce8-9ded-84630a6ca45d.png)
+![hair salon](https://user-images.githubusercontent.com/51822103/198872156-f34194af-118d-49e4-816d-0aae208cbb83.png)
+
 
 ## How It's Made:
 
